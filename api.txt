@@ -1,0 +1,16 @@
+1} Get The List of Products Currently existing in Stock :    	[GET|HEAD]          http://127.0.0.1:8080/api/products
+
+2} Get The Number of Products currently existing in stock : 	[GET|HEAD]  	    http://127.0.0.1:8080/api/Products_Count
+
+3} Remove a certain product by id form the stock : 	    	[DELETE] 	    http://127.0.0.1:8080/api/product/delete/{id} 
+
+4} Remove multiple products by their id form the stock : 	[DELETE] 	    http://127.0.0.1:8080/api/product/delete/{id}/{id2}
+
+5} Get the List of the removed Products from the stock : 	[GET|HEAD]  	    http://127.0.0.1:8080/api/Deleted_Products
+
+6} Get The Number of removed Products from stock : 		[GET|HEAD] 	    http://127.0.0.1:8080/api/Deleted_Count
+
+7} Get A report list with The existing products 
+and removed ones and their amount: 				[GET|HEAD] 	    http://127.0.0.1:8080/api/report 
+
+ 
