@@ -64,3 +64,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+Imortant Notes About the Project: 
+
+    1} The database export file is in the projet folder. (LeadInTop.sql)
+    2} The file with all the APIs created is in the folder of thr project as well (api.txt) 
